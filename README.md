@@ -46,6 +46,6 @@ To modify the interface:
 
 🧹 Maintenance
 Stop and remove container:
-   docker stop $(docker ps -aqf "name=web-services-portal")
-   docker rm $(docker ps -aqf "name=web-services-portal")
+   - docker stop $(docker ps -aqf "name=web-services-portal")
+   - docker rm $(docker ps -aqf "name=web-services-portal")
 
