@@ -11,8 +11,8 @@ A static HTML/CSS replica of a typical web services portal interface, designed f
 
 ## 📁 Directory Structure
 .
-├── index.html # Main HTML structure
-├── styles.css # All CSS styling
+├── index.html # Main HTML structure \n
+├── styles.css # All CSS styling \n
 └── Dockerfile # Docker configuration
 
 
