@@ -42,10 +42,10 @@ To modify the interface:
 - Edit index.html for content changes
 - Update styles.css for visual adjustments
 - Rebuild Docker image after changes:
-docker build --no-cache -t web-services-portal .
+   docker build --no-cache -t web-services-portal .
 
 🧹 Maintenance
 Stop and remove container:
-docker stop $(docker ps -aqf "name=web-services-portal")
-docker rm $(docker ps -aqf "name=web-services-portal")
+   docker stop $(docker ps -aqf "name=web-services-portal")
+   docker rm $(docker ps -aqf "name=web-services-portal")
 
