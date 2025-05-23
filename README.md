@@ -1,4 +1,5 @@
 # Sample Web Services Portal
+![image](https://github.com/user-attachments/assets/114add8f-0e85-4cc6-961d-b4fea196e80b)
 
 A static HTML/CSS replica of a typical web services portal interface, designed for demonstration and learning purposes.
 
