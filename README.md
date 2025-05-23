@@ -10,10 +10,10 @@ A static HTML/CSS replica of a typical web services portal interface, designed f
 - Three additional cards: "Developer APIs", "Submit Report", and "Artificial Intelligence Tools"
 
 ## 📁 Directory Structure
-.
-├── index.html # Main HTML structure \n
-├── styles.css # All CSS styling \n
-└── Dockerfile # Docker configuration
+- .
+- ├── index.html # Main HTML structure
+- ├── styles.css # All CSS styling
+- └── Dockerfile # Docker configuration
 
 
 ## 🚀 Installation & Usage
